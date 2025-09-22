@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221E1C
+test_cases:
+- expected_values:
+    LINCOLN_TOT: 35.1875
+  response: 7E805621E1C0233
+- expected_values:
+    LINCOLN_TOT: 64
+  response: 7E805621E1C0400
+- expected_values:
+    LINCOLN_TOT: 79.9375
+  response: 7E805621E1C04FF
+- expected_values:
+    LINCOLN_TOT: 80.1875
+  response: 7E805621E1C0503

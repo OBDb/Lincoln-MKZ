@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    LINCOLN_ODO: 323406
+  response: 7E80662DD0104EF4E
+- expected_values:
+    LINCOLN_ODO: 323583
+  response: 7E80662DD0104EFFF
+- expected_values:
+    LINCOLN_ODO: 323584
+  response: 7E80662DD0104F000
+- expected_values:
+    LINCOLN_ODO: 323892
+  response: 7E80662DD0104F134

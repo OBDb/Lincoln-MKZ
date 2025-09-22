@@ -1,0 +1,14 @@
+command_id: 7E0.220301
+test_cases:
+- expected_values:
+    LINCOLN_MAP_V: 0.38574
+  response: 7E805620301018B
+- expected_values:
+    LINCOLN_MAP_V: 1.00098
+  response: '7E8056203010401'
+- expected_values:
+    LINCOLN_MAP_V: 1.49902
+  response: 7E80562030105FF
+- expected_values:
+    LINCOLN_MAP_V: 2.58301
+  response: 7E8056203010A55

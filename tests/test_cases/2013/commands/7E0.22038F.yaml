@@ -1,0 +1,11 @@
+command_id: 7E0.22038F
+test_cases:
+- expected_values:
+    LINCOLN_ECT: 66.40625
+  response: 7E80562038F109A
+- expected_values:
+    LINCOLN_ECT: 91.98438
+  response: 7E80562038F16FF
+- expected_values:
+    LINCOLN_ECT: 92
+  response: 7E80562038F1700
