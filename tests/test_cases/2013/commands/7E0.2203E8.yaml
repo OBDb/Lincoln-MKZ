@@ -1,0 +1,11 @@
+command_id: 7E0.2203E8
+test_cases:
+- expected_values:
+    LINCOLN_OAR: 1
+  response: 7E8056203E8D5B1
+- expected_values:
+    LINCOLN_OAR: 1
+  response: 7E8056203E8D6A2
+- expected_values:
+    LINCOLN_OAR: 1
+  response: 7E8056203E8D731
