@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Lincoln_MKZ"
+
 generations:
   - name: "First Generation (CD3)"
     start_year: 2006
