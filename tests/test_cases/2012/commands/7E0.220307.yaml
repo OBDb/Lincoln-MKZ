@@ -1,5 +1,11 @@
 command_id: 7E0.220307
 test_cases:
 - expected_values:
+    LINCOLN_LPFP_DUTY: 40.66467
+  response: 7E805620307340D
+- expected_values:
+    LINCOLN_LPFP_DUTY: 41.34216
+  response: 7E80562030734EB
+- expected_values:
     LINCOLN_LPFP_DUTY: 75
   response: '7E8056203076000'
