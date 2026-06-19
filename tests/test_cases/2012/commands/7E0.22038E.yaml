@@ -2,7 +2,25 @@ command_id: 7E0.22038E
 test_cases:
 - expected_values:
     LINCOLN_EVAP_V: 5
+  response: 7E80562038E0A8E
+- expected_values:
+    LINCOLN_EVAP_V: 5
+  response: 7E80562038E0A9D
+- expected_values:
+    LINCOLN_EVAP_V: 5
+  response: 7E80562038E0AB1
+- expected_values:
+    LINCOLN_EVAP_V: 5
   response: 7E80562038E0AB6
 - expected_values:
     LINCOLN_EVAP_V: 5
   response: 7E80562038E0ABB
+- expected_values:
+    LINCOLN_EVAP_V: 5
+  response: 7E80562038E0AC0
+- expected_values:
+    LINCOLN_EVAP_V: 5
+  response: 7E80562038E0ADE
+- expected_values:
+    LINCOLN_EVAP_V: 5
+  response: 7E80562038E0B10

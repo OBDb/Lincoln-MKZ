@@ -1,29 +1,14 @@
 command_id: 7E4.7EC.22480D|fc=1
 test_cases:
 - expected_values:
-    LINCOLN_HVBAT_V: 261.75
-  response: 7EC0562480D663F
-- expected_values:
-    LINCOLN_HVBAT_V: 264.25
-  response: 7EC0562480D6739
-- expected_values:
-    LINCOLN_HVBAT_V: 266.37
-  response: 7EC0562480D680D
-- expected_values:
-    LINCOLN_HVBAT_V: 269
-  response: 7EC0562480D6914
+    LINCOLN_HVBAT_V: 250.75
+  response: 7EC0562480D61F3
 - expected_values:
     LINCOLN_HVBAT_V: 271.37
   response: 7EC0562480D6A01
 - expected_values:
-    LINCOLN_HVBAT_V: 272.37
-  response: 7EC0562480D6A65
+    LINCOLN_HVBAT_V: 304.62
+  response: 7EC0562480D76FE
 - expected_values:
-    LINCOLN_HVBAT_V: 274.75
-  response: 7EC0562480D6B53
-- expected_values:
-    LINCOLN_HVBAT_V: 276.87
-  response: 7EC0562480D6C27
-- expected_values:
-    LINCOLN_HVBAT_V: 278.62
-  response: 7EC0562480D6CD6
+    LINCOLN_HVBAT_V: 310.62
+  response: 7EC0562480D7956

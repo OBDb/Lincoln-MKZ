@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     LINCOLN_HVBAT_T: 34
   response: 7EC0462480054
+- expected_values:
+    LINCOLN_HVBAT_T: 35
+  response: 7EC0462480055
+- expected_values:
+    LINCOLN_HVBAT_T: 36
+  response: 7EC0462480056
+- expected_values:
+    LINCOLN_HVBAT_T: 37
+  response: 7EC0462480057
