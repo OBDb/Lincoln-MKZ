@@ -1,0 +1,29 @@
+command_id: 7E0.22035F
+test_cases:
+- expected_values:
+    LINCOLN_RO2_V: 0.61035
+  response: 7E80562035F0271
+- expected_values:
+    LINCOLN_RO2_V: 0.63965
+  response: 7E80562035F028F
+- expected_values:
+    LINCOLN_RO2_V: 0.66895
+  response: 7E80562035F02AD
+- expected_values:
+    LINCOLN_RO2_V: 0.70996
+  response: 7E80562035F02D7
+- expected_values:
+    LINCOLN_RO2_V: 0.73438
+  response: 7E80562035F02F0
+- expected_values:
+    LINCOLN_RO2_V: 0.75684
+  response: 7E80562035F0307
+- expected_values:
+    LINCOLN_RO2_V: 0.77637
+  response: 7E80562035F031B
+- expected_values:
+    LINCOLN_RO2_V: 0.79785
+  response: 7E80562035F0331
+- expected_values:
+    LINCOLN_RO2_V: 0.81445
+  response: 7E80562035F0342
