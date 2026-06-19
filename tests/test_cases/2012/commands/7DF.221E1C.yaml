@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LINCOLN_TOT_V2: 45.5
   response: 7E905621E1C02D8
+- expected_values:
+    LINCOLN_TOT_V2: 48.75
+  response: 7E905621E1C030C

@@ -1,20 +1,8 @@
 command_id: 7E0.220393
 test_cases:
 - expected_values:
-    LINCOLN_AC_P: 182.45749
-  response: '7E8056203930275'
+    LINCOLN_AC_P: 168.53386
+  response: '7E8056203930245'
 - expected_values:
-    LINCOLN_AC_P: 184.77809
-  response: 7E805620393027D
-- expected_values:
-    LINCOLN_AC_P: 185.64832
-  response: '7E8056203930280'
-- expected_values:
-    LINCOLN_AC_P: 186.22847
-  response: '7E8056203930282'
-- expected_values:
-    LINCOLN_AC_P: 186.80862
-  response: '7E8056203930284'
-- expected_values:
-    LINCOLN_AC_P: 187.96892
-  response: '7E8056203930288'
+    LINCOLN_AC_P: 206.53375
+  response: 7E80562039302C8

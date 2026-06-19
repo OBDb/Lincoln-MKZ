@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     LINCOLN_ACC_POS: 0
   response: 7E80462032B00
+- expected_values:
+    LINCOLN_ACC_POS: 11.5
+  response: 7E80462032B17
+- expected_values:
+    LINCOLN_ACC_POS: 21
+  response: 7E80462032B2A
+- expected_values:
+    LINCOLN_ACC_POS: 26.5
+  response: 7E80462032B35
+- expected_values:
+    LINCOLN_ACC_POS: 48.5
+  response: 7E80462032B61
