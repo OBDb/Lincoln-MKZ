@@ -4,11 +4,8 @@ test_cases:
     LINCOLN_TOT_V2: 22.1875
   response: 7E905621E1C0163
 - expected_values:
-    LINCOLN_TOT_V2: 31.5625
-  response: 7E905621E1C01F9
+    LINCOLN_TOT_V2: 47.6875
+  response: 7E905621E1C02FB
 - expected_values:
-    LINCOLN_TOT_V2: 32.75
-  response: 7E905621E1C020C
-- expected_values:
-    LINCOLN_TOT_V2: 48.75
-  response: 7E905621E1C030C
+    LINCOLN_TOT_V2: 48.0625
+  response: 7E905621E1C0301
