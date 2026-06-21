@@ -1,8 +1,11 @@
 command_id: 7E0.220393
 test_cases:
 - expected_values:
-    LINCOLN_AC_P: 168.53386
-  response: '7E8056203930245'
+    LINCOLN_AC_P: 96.30506
+  response: 7E805620393014C
 - expected_values:
-    LINCOLN_AC_P: 206.53375
-  response: 7E80562039302C8
+    LINCOLN_AC_P: 146.19805
+  response: 7E80562039301F8
+- expected_values:
+    LINCOLN_AC_P: 149.38888
+  response: '7E8056203930203'
