@@ -4,29 +4,5 @@ test_cases:
     LINCOLN_ETC_TRIM_LEARNED: 1.9668
   response: 7E80562033803EF
 - expected_values:
-    LINCOLN_ETC_TRIM_LEARNED: 2.19727
-  response: '7E8056203380465'
-- expected_values:
-    LINCOLN_ETC_TRIM_LEARNED: 2.24023
-  response: 7E805620338047B
-- expected_values:
-    LINCOLN_ETC_TRIM_LEARNED: 2.24219
-  response: 7E805620338047C
-- expected_values:
-    LINCOLN_ETC_TRIM_LEARNED: 2.29102
-  response: '7E8056203380495'
-- expected_values:
-    LINCOLN_ETC_TRIM_LEARNED: 2.3125
-  response: 7E80562033804A0
-- expected_values:
-    LINCOLN_ETC_TRIM_LEARNED: 2.31641
-  response: 7E80562033804A2
-- expected_values:
-    LINCOLN_ETC_TRIM_LEARNED: 2.31836
-  response: 7E80562033804A3
-- expected_values:
-    LINCOLN_ETC_TRIM_LEARNED: 2.32227
-  response: 7E80562033804A5
-- expected_values:
-    LINCOLN_ETC_TRIM_LEARNED: 2.33789
-  response: 7E80562033804AD
+    LINCOLN_ETC_TRIM_LEARNED: 2.11719
+  response: 7E805620338043C

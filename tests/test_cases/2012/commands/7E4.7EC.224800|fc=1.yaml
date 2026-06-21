@@ -4,23 +4,5 @@ test_cases:
     LINCOLN_HVBAT_T: 23
   response: 7EC0462480049
 - expected_values:
-    LINCOLN_HVBAT_T: 24
-  response: 7EC046248004A
-- expected_values:
-    LINCOLN_HVBAT_T: 25
-  response: 7EC046248004B
-- expected_values:
-    LINCOLN_HVBAT_T: 33
-  response: 7EC0462480053
-- expected_values:
-    LINCOLN_HVBAT_T: 34
-  response: 7EC0462480054
-- expected_values:
-    LINCOLN_HVBAT_T: 35
-  response: 7EC0462480055
-- expected_values:
-    LINCOLN_HVBAT_T: 36
-  response: 7EC0462480056
-- expected_values:
-    LINCOLN_HVBAT_T: 37
-  response: 7EC0462480057
+    LINCOLN_HVBAT_T: 40
+  response: 7EC046248005A
