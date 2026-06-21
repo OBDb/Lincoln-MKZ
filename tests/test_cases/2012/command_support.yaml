@@ -1,6 +1,7 @@
 model_year: 2012
 supported_commands_by_ecu:
   "7DF":
+  - 7DF.0105
   - 7DF.010D
   - 7DF.221E12:LINCOLN_GEAR_V2
   - 7DF.221E1C:LINCOLN_TOT_V2
@@ -96,7 +97,6 @@ unsupported_commands_by_ecu:
   "764":
   - 764.22A224:LINCOLN_CC_TGT_VSS
   "7DF":
-  - 7DF.0105
   - 7DF.221310:LINCOLN_EOT
   - 7DF.22F45C:LINCOLN_EOP
   "7E0":

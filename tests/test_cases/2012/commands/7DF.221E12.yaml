@@ -21,3 +21,11 @@ test_cases:
   response: |-
     7E904621E1246
     7EC04621E1246
+- expected_values:
+    LINCOLN_GEAR_V2: 40
+  response: |-
+    7EC04621E1228
+    7E904621E1228
+- expected_values:
+    LINCOLN_GEAR_V2: 70
+  response: 7EC04621E1246
