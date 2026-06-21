@@ -4,8 +4,5 @@ test_cases:
     LINCOLN_ODO: 228930
   response: 7E80662DD01037E42
 - expected_values:
-    LINCOLN_ODO: 228931
-  response: 7E80662DD01037E43
-- expected_values:
-    LINCOLN_ODO: 228932
-  response: 7E80662DD01037E44
+    LINCOLN_ODO: 228986
+  response: 7E80662DD01037E7A

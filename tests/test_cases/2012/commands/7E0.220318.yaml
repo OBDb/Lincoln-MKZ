@@ -5,25 +5,7 @@ test_cases:
   response: '7E8056203180000'
 - expected_values:
     LINCOLN_VCT_INT_ACT: 0
-  response: 7E805620318FE20
+  response: 7E805620318FEFB
 - expected_values:
     LINCOLN_VCT_INT_ACT: 0
-  response: 7E805620318FEE9
-- expected_values:
-    LINCOLN_VCT_INT_ACT: 0
-  response: 7E805620318FF02
-- expected_values:
-    LINCOLN_VCT_INT_ACT: 0
-  response: 7E805620318FF07
-- expected_values:
-    LINCOLN_VCT_INT_ACT: 0
-  response: 7E805620318FF0C
-- expected_values:
-    LINCOLN_VCT_INT_ACT: 0
-  response: 7E805620318FF11
-- expected_values:
-    LINCOLN_VCT_INT_ACT: 0
-  response: 7E805620318FF43
-- expected_values:
-    LINCOLN_VCT_INT_ACT: 0
-  response: 7E805620318FF6A
+  response: 7E805620318FF01

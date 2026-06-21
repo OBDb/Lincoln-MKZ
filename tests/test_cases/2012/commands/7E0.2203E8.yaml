@@ -2,4 +2,7 @@ command_id: 7E0.2203E8
 test_cases:
 - expected_values:
     LINCOLN_OAR: 1
+  response: 7E8056203E8CCCD
+- expected_values:
+    LINCOLN_OAR: 1
   response: 7E8056203E8CFB7
