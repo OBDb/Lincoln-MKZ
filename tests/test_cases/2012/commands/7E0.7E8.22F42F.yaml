@@ -4,8 +4,8 @@ test_cases:
     LINCOLN_FLI: 38.03922
   response: 7E80462F42F61
 - expected_values:
-    LINCOLN_FLI: 49.80392
-  response: 7E80462F42F7F
+    LINCOLN_FLI: 41.96078
+  response: 7E80462F42F6B
 - expected_values:
     LINCOLN_FLI: 86.66667
   response: 7E80462F42FDD
