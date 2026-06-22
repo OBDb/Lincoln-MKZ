@@ -4,8 +4,8 @@ test_cases:
     LINCOLN_AC_P: 96.30506
   response: 7E805620393014C
 - expected_values:
-    LINCOLN_AC_P: 146.19805
-  response: 7E80562039301F8
+    LINCOLN_AC_P: 147.64843
+  response: 7E80562039301FD
 - expected_values:
     LINCOLN_AC_P: 149.38888
   response: '7E8056203930203'
