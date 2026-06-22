@@ -10,5 +10,5 @@ test_cases:
     LINCOLN_ECT: 75.98438
   response: 7E80562038F12FF
 - expected_values:
-    LINCOLN_ECT: 81.125
-  response: 7E80562038F1448
+    LINCOLN_ECT: 85.5625
+  response: 7E80562038F1564
