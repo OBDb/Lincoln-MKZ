@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LINCOLN_OAR: 1
   response: 7E8056203E8CFB7
+- expected_values:
+    LINCOLN_OAR: 1
+  response: 7E8056203E8D5DC
