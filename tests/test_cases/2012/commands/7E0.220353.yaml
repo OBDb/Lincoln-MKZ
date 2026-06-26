@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     LINCOLN_BARO: 14.61092
   response: '7E8056203530193'
+- expected_values:
+    LINCOLN_BARO: 14.64717
+  response: '7E8056203530194'
