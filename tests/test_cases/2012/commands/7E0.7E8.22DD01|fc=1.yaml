@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LINCOLN_ODO: 229056
   response: 7E80662DD01037EC0
+- expected_values:
+    LINCOLN_ODO: 229177
+  response: 7E80662DD01037F39

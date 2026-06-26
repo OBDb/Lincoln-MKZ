@@ -1,11 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    LINCOLN_FLI: 38.03922
-  response: 7E80462F42F61
-- expected_values:
-    LINCOLN_FLI: 38.82353
-  response: 7E80462F42F63
+    LINCOLN_FLI: 35.29412
+  response: 7E80462F42F5A
 - expected_values:
     LINCOLN_FLI: 86.66667
   response: 7E80462F42FDD
