@@ -4,5 +4,5 @@ test_cases:
     LINCOLN_ACC_POS: 0
   response: 7E80462032B00
 - expected_values:
-    LINCOLN_ACC_POS: 71.5
-  response: 7E80462032B8F
+    LINCOLN_ACC_POS: 73
+  response: 7E80462032B92
