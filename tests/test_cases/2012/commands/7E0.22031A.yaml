@@ -5,7 +5,7 @@ test_cases:
   response: 7E80562031A0000
 - expected_values:
     LINCOLN_VCT_INT_ERR: 50
-  response: 7E80562031AFFC2
+  response: 7E80562031AFF43
 - expected_values:
     LINCOLN_VCT_INT_ERR: 50
   response: 7E80562031AFFFF

@@ -4,8 +4,8 @@ test_cases:
     LINCOLN_LPFP_DUTY: 39.72473
   response: 7E80562030732D9
 - expected_values:
-    LINCOLN_LPFP_DUTY: 40.58228
-  response: 7E80562030733F2
+    LINCOLN_LPFP_DUTY: 40.58533
+  response: 7E80562030733F3
 - expected_values:
     LINCOLN_LPFP_DUTY: 75
   response: '7E8056203076000'
