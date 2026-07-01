@@ -8,4 +8,4 @@ test_cases:
   response: 7E8056203BDFF0A
 - expected_values:
     LINCOLN_CL_LC: 5
-  response: 7E8056203BDFFDF
+  response: 7E8056203BDFFF1
