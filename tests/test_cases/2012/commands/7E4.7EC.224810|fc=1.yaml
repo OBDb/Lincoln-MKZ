@@ -4,26 +4,5 @@ test_cases:
     LINCOLN_HVBAT_AGE: 125737.2
   response: 7EC05624810886F
 - expected_values:
-    LINCOLN_HVBAT_AGE: 125780.4
-  response: 7EC05624810887B
-- expected_values:
-    LINCOLN_HVBAT_AGE: 125787.6
-  response: 7EC05624810887D
-- expected_values:
-    LINCOLN_HVBAT_AGE: 125802
-  response: 7EC056248108881
-- expected_values:
-    LINCOLN_HVBAT_AGE: 125805.6
-  response: 7EC056248108882
-- expected_values:
-    LINCOLN_HVBAT_AGE: 125884.8
-  response: 7EC056248108898
-- expected_values:
-    LINCOLN_HVBAT_AGE: 125888.4
-  response: 7EC056248108899
-- expected_values:
-    LINCOLN_HVBAT_AGE: 125946
-  response: 7EC0562481088A9
-- expected_values:
-    LINCOLN_HVBAT_AGE: 125992.8
-  response: 7EC0562481088B6
+    LINCOLN_HVBAT_AGE: 126032.4
+  response: 7EC0562481088C1

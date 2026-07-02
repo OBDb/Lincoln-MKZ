@@ -10,5 +10,5 @@ test_cases:
     LINCOLN_MAP_V: 2.74902
   response: 7E8056203010AFF
 - expected_values:
-    LINCOLN_MAP_V: 4.04785
-  response: '7E8056203011031'
+    LINCOLN_MAP_V: 4.02832
+  response: 7E805620301101D
