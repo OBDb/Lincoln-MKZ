@@ -4,8 +4,8 @@ test_cases:
     LINCOLN_VCT_INT_DUTY: 0
   response: '7E8056203160000'
 - expected_values:
-    LINCOLN_VCT_INT_DUTY: 42.9657
-  response: 7E80562031636FF
+    LINCOLN_VCT_INT_DUTY: 41.4032
+  response: 7E80562031634FF
 - expected_values:
     LINCOLN_VCT_INT_DUTY: 100
   response: '7E8056203168000'
