@@ -97,6 +97,7 @@ unsupported_commands_by_ecu:
   "764":
   - 764.22A224:LINCOLN_CC_TGT_VSS
   "7DF":
+  - 7DF.0104
   - 7DF.221310:LINCOLN_EOT
   - 7DF.22F45C:LINCOLN_EOP
   "7E0":
