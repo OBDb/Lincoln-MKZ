@@ -10,5 +10,5 @@ test_cases:
     LINCOLN_HVBAT_SOC: 46.59
   response: 7EC056248015AFF
 - expected_values:
-    LINCOLN_HVBAT_SOC: 63.284
-  response: 7EC056248017B9A
+    LINCOLN_HVBAT_SOC: 64.538
+  response: 7EC056248017E0D
