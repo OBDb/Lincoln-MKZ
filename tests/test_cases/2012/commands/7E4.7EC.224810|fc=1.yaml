@@ -4,5 +4,5 @@ test_cases:
     LINCOLN_HVBAT_AGE: 125737.2
   response: 7EC05624810886F
 - expected_values:
-    LINCOLN_HVBAT_AGE: 126158.4
-  response: 7EC0562481088E4
+    LINCOLN_HVBAT_AGE: 126198
+  response: 7EC0562481088EF
