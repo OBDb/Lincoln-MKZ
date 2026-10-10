@@ -1,14 +1,14 @@
 command_id: 7E0.22038E
 test_cases:
 - expected_values:
-    LINCOLN_EVAP_V: 5
+    LINCOLN_EVAP_V: 1.616
   response: 7E80562038E0650
 - expected_values:
-    LINCOLN_EVAP_V: 5
+    LINCOLN_EVAP_V: 1.791
   response: 7E80562038E06FF
 - expected_values:
-    LINCOLN_EVAP_V: 5
+    LINCOLN_EVAP_V: 2.562
   response: 7E80562038E0A02
 - expected_values:
-    LINCOLN_EVAP_V: 5
+    LINCOLN_EVAP_V: 2.827
   response: 7E80562038E0B0B

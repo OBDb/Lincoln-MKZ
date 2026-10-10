@@ -1,29 +1,29 @@
 command_id: 7E0.2203E8
 test_cases:
 - expected_values:
-    LINCOLN_OAR: 1
+    LINCOLN_OAR: 0
   response: 7E8056203E8C000
 - expected_values:
-    LINCOLN_OAR: 1
+    LINCOLN_OAR: 0
   response: 7E8056203E8C1A3
 - expected_values:
-    LINCOLN_OAR: 1
+    LINCOLN_OAR: 0
   response: 7E8056203E8CCCD
 - expected_values:
-    LINCOLN_OAR: 1
+    LINCOLN_OAR: 0
   response: 7E8056203E8CFB7
 - expected_values:
-    LINCOLN_OAR: 1
+    LINCOLN_OAR: 0
   response: 7E8056203E8D448
 - expected_values:
-    LINCOLN_OAR: 1
+    LINCOLN_OAR: 0
   response: 7E8056203E8D5DC
 - expected_values:
-    LINCOLN_OAR: 1
+    LINCOLN_OAR: 0
   response: 7E8056203E8DA48
 - expected_values:
-    LINCOLN_OAR: 1
+    LINCOLN_OAR: 0
   response: 7E8056203E8E569
 - expected_values:
-    LINCOLN_OAR: 1
+    LINCOLN_OAR: 0
   response: 7E8056203E8EA48
