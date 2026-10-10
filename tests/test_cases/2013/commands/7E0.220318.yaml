@@ -4,8 +4,8 @@ test_cases:
     LINCOLN_VCT_INT_ACT: 0
   response: '7E8056203180000'
 - expected_values:
-    LINCOLN_VCT_INT_ACT: 0
+    LINCOLN_VCT_INT_ACT: 4080
   response: 7E805620318FF00
 - expected_values:
-    LINCOLN_VCT_INT_ACT: 0
+    LINCOLN_VCT_INT_ACT: 4095.9375
   response: 7E805620318FFFF

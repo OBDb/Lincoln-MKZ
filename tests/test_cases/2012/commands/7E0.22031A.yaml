@@ -4,8 +4,8 @@ test_cases:
     LINCOLN_VCT_INT_ERR: 0
   response: 7E80562031A0000
 - expected_values:
-    LINCOLN_VCT_INT_ERR: 50
+    LINCOLN_VCT_INT_ERR: -11.8125
   response: 7E80562031AFF43
 - expected_values:
-    LINCOLN_VCT_INT_ERR: 50
+    LINCOLN_VCT_INT_ERR: -0.0625
   response: 7E80562031AFFFF
