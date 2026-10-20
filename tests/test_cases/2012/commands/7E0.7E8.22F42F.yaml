@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    LINCOLN_FLI: 18.03922
+    MKZ_FLI_7E0: 18.03922
   response: 7E80462F42F2E
 - expected_values:
-    LINCOLN_FLI: 21.96078
+    MKZ_FLI_7E0: 21.96078
   response: 7E80462F42F38
 - expected_values:
-    LINCOLN_FLI: 98.82353
+    MKZ_FLI_7E0: 98.82353
   response: 7E80462F42FFC

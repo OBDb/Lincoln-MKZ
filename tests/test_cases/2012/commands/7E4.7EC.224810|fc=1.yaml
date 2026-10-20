@@ -1,11 +1,11 @@
 command_id: 7E4.7EC.224810|fc=1
 test_cases:
 - expected_values:
-    LINCOLN_HVBAT_AGE: 125737.2
+    MKZ_HVBAT_AGE: 125737.2
   response: 7EC05624810886F
 - expected_values:
-    LINCOLN_HVBAT_AGE: 126205.2
+    MKZ_HVBAT_AGE: 126205.2
   response: 7EC0562481088F1
 - expected_values:
-    LINCOLN_HVBAT_AGE: 126399.6
+    MKZ_HVBAT_AGE: 126399.6
   response: 7EC056248108927

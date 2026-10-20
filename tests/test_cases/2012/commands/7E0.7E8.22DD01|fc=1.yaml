@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22DD01|fc=1
 test_cases:
 - expected_values:
-    LINCOLN_ODO: 228930
+    MKZ_ODO: 228930
   response: 7E80662DD01037E42
 - expected_values:
-    LINCOLN_ODO: 229332
+    MKZ_ODO: 229332
   response: 7E80662DD01037FD4
 - expected_values:
-    LINCOLN_ODO: 229634
+    MKZ_ODO: 229634
   response: 7E80662DD01038102
 - expected_values:
-    LINCOLN_ODO: 229998
+    MKZ_ODO: 229998
   response: 7E80662DD0103826E

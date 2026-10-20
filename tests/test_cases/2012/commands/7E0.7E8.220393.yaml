@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220393
+test_cases:
+- expected_values:
+    MKZ_AC_P: 96.30506
+  response: 7E805620393014C
+- expected_values:
+    MKZ_AC_P: 148.22858
+  response: 7E80562039301FF
+- expected_values:
+    MKZ_AC_P: 222.77798
+  response: '7E8056203930300'

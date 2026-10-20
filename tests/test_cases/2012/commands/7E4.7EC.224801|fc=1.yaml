@@ -1,14 +1,14 @@
 command_id: 7E4.7EC.224801|fc=1
 test_cases:
 - expected_values:
-    LINCOLN_HVBAT_SOC: 34.048
+    MKZ_HVBAT_SOC: 34.048
   response: 7EC056248014280
 - expected_values:
-    LINCOLN_HVBAT_SOC: 46.08
+    MKZ_HVBAT_SOC: 46.08
   response: 7EC056248015A00
 - expected_values:
-    LINCOLN_HVBAT_SOC: 46.59
+    MKZ_HVBAT_SOC: 46.59
   response: 7EC056248015AFF
 - expected_values:
-    LINCOLN_HVBAT_SOC: 64.538
+    MKZ_HVBAT_SOC: 64.538
   response: 7EC056248017E0D

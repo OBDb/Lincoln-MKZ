@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22033C
+test_cases:
+- expected_values:
+    MKZ_TIP_V: 1.63086
+  response: 7E80562033C014E
+- expected_values:
+    MKZ_TIP_V: 2.41211
+  response: 7E80562033C01EE
+- expected_values:
+    MKZ_TIP_V: 2.93945
+  response: 7E80562033C025A
