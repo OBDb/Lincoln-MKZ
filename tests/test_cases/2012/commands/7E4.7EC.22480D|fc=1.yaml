@@ -1,14 +1,14 @@
 command_id: 7E4.7EC.22480D|fc=1
 test_cases:
 - expected_values:
-    LINCOLN_HVBAT_V: 235.37
+    MKZ_HVBAT_V: 235.37
   response: 7EC0562480D5BF1
 - expected_values:
-    LINCOLN_HVBAT_V: 271.37
+    MKZ_HVBAT_V: 271.37
   response: 7EC0562480D6A01
 - expected_values:
-    LINCOLN_HVBAT_V: 304.62
+    MKZ_HVBAT_V: 304.62
   response: 7EC0562480D76FE
 - expected_values:
-    LINCOLN_HVBAT_V: 318.87
+    MKZ_HVBAT_V: 318.87
   response: 7EC0562480D7C8F

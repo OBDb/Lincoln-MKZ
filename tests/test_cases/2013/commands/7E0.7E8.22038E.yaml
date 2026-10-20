@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038E
+test_cases:
+- expected_values:
+    MKZ_EVAP_RAW: 1616
+  response: 7E80562038E0650
+- expected_values:
+    MKZ_EVAP_RAW: 1791
+  response: 7E80562038E06FF
+- expected_values:
+    MKZ_EVAP_RAW: 2562
+  response: 7E80562038E0A02
+- expected_values:
+    MKZ_EVAP_RAW: 2827
+  response: 7E80562038E0B0B

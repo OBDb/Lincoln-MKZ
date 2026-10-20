@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    MKZ_ETC_TRIM_LRN: 1.9668
+  response: 7E80562033803EF
+- expected_values:
+    MKZ_ETC_TRIM_LRN: 2.01758
+  response: '7E8056203380409'

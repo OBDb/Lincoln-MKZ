@@ -1,8 +1,8 @@
 command_id: 7E4.7EC.224800|fc=1
 test_cases:
 - expected_values:
-    LINCOLN_HVBAT_T: 23
+    MKZ_HVBAT_T: 23
   response: 7EC0462480049
 - expected_values:
-    LINCOLN_HVBAT_T: 40
+    MKZ_HVBAT_T: 40
   response: 7EC046248005A

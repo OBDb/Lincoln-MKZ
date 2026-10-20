@@ -1,5 +1,5 @@
 command_id: 726.72E.222817
 test_cases:
 - expected_values:
-    LINCOLN_TP_RRI: 13.5
+    MKZ_TP_RRI_RAW: 270
   response: 72E05622817010E
