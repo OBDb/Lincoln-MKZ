@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     MKZ_PRI_MOTOR_RPM: -448
   response: 7EE05621E2CFE40
+- expected_values:
+    MKZ_PRI_MOTOR_RPM: -1
+  response: 7EE05621E2CFFFF

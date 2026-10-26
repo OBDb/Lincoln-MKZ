@@ -19,5 +19,8 @@ test_cases:
     MKZ_IAT_ALT2: 45
   response: 7E80462F40F55
 - expected_values:
+    MKZ_IAT_ALT2: 46
+  response: 7E80462F40F56
+- expected_values:
     MKZ_IAT_ALT2: 47
   response: 7E80462F40F57

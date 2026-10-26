@@ -1,8 +1,23 @@
 command_id: 7E0.7E8.22116B
 test_cases:
 - expected_values:
+    MKZ_IGN_TIM_CYL1: 15.5
+  response: 7E80562116B003E
+- expected_values:
+    MKZ_IGN_TIM_CYL1: 16
+  response: 7E80562116B0040
+- expected_values:
+    MKZ_IGN_TIM_CYL1: 16.5
+  response: 7E80562116B0042
+- expected_values:
+    MKZ_IGN_TIM_CYL1: 16.75
+  response: 7E80562116B0043
+- expected_values:
     MKZ_IGN_TIM_CYL1: 18.75
   response: 7E80562116B004B
+- expected_values:
+    MKZ_IGN_TIM_CYL1: 21
+  response: 7E80562116B0054
 - expected_values:
     MKZ_IGN_TIM_CYL1: 22.75
   response: 7E80562116B005B

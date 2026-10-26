@@ -4,8 +4,23 @@ test_cases:
     MKZ_VCT_INT_DUTY: 0
   response: '7E8056203160000'
 - expected_values:
+    MKZ_VCT_INT_DUTY: 40.69824
+  response: '7E8056203163418'
+- expected_values:
+    MKZ_VCT_INT_DUTY: 40.84473
+  response: '7E8056203163448'
+- expected_values:
+    MKZ_VCT_INT_DUTY: 41.03394
+  response: '7E8056203163486'
+- expected_values:
+    MKZ_VCT_INT_DUTY: 41.70837
+  response: '7E8056203163563'
+- expected_values:
     MKZ_VCT_INT_DUTY: 42.19055
   response: '7E8056203163601'
+- expected_values:
+    MKZ_VCT_INT_DUTY: 42.32483
+  response: 7E805620316362D
 - expected_values:
     MKZ_VCT_INT_DUTY: 42.55676
   response: '7E8056203163679'

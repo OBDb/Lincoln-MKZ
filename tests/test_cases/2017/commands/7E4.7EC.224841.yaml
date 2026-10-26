@@ -1,23 +1,8 @@
 command_id: 7E4.7EC.224841
 test_cases:
 - expected_values:
-    MKZ_AVG_BAT_MODULE_V: 3.663
-  response: 7EC056248410E4F
-- expected_values:
-    MKZ_AVG_BAT_MODULE_V: 3.668
-  response: 7EC056248410E54
-- expected_values:
-    MKZ_AVG_BAT_MODULE_V: 3.677
-  response: 7EC056248410E5D
-- expected_values:
-    MKZ_AVG_BAT_MODULE_V: 3.683
-  response: 7EC056248410E63
-- expected_values:
-    MKZ_AVG_BAT_MODULE_V: 3.702
-  response: 7EC056248410E76
-- expected_values:
-    MKZ_AVG_BAT_MODULE_V: 3.792
-  response: 7EC056248410ED0
+    MKZ_AVG_BAT_MODULE_V: 3.645
+  response: 7EC056248410E3D
 - expected_values:
     MKZ_AVG_BAT_MODULE_V: 3.816
   response: 7EC056248410EE8

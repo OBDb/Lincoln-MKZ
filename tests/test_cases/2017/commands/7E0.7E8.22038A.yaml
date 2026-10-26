@@ -7,11 +7,23 @@ test_cases:
     MKZ_PCM_MISF_ACCEL_CYL3_NORM: 0.03125
   response: 7E80462038A02
 - expected_values:
+    MKZ_PCM_MISF_ACCEL_CYL3_NORM: 0.0625
+  response: 7E80462038A04
+- expected_values:
     MKZ_PCM_MISF_ACCEL_CYL3_NORM: 0.48438
   response: 7E80462038A1F
 - expected_values:
     MKZ_PCM_MISF_ACCEL_CYL3_NORM: 0.51562
   response: 7E80462038A21
 - expected_values:
+    MKZ_PCM_MISF_ACCEL_CYL3_NORM: -0.25
+  response: 7E80462038AF0
+- expected_values:
+    MKZ_PCM_MISF_ACCEL_CYL3_NORM: -0.10938
+  response: 7E80462038AF9
+- expected_values:
     MKZ_PCM_MISF_ACCEL_CYL3_NORM: -0.0625
   response: 7E80462038AFC
+- expected_values:
+    MKZ_PCM_MISF_ACCEL_CYL3_NORM: -0.01562
+  response: 7E80462038AFF

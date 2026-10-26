@@ -4,23 +4,8 @@ test_cases:
     MKZ_PRI_MOTOR_INV_V: 276.9
   response: 7EE0562481D0AD1
 - expected_values:
-    MKZ_PRI_MOTOR_INV_V: 278
-  response: 7EE0562481D0ADC
-- expected_values:
-    MKZ_PRI_MOTOR_INV_V: 279.9
-  response: 7EE0562481D0AEF
-- expected_values:
-    MKZ_PRI_MOTOR_INV_V: 280.1
-  response: 7EE0562481D0AF1
+    MKZ_PRI_MOTOR_INV_V: 280.6
+  response: 7EE0562481D0AF6
 - expected_values:
     MKZ_PRI_MOTOR_INV_V: 281.6
   response: 7EE0562481D0B00
-- expected_values:
-    MKZ_PRI_MOTOR_INV_V: 282.1
-  response: 7EE0562481D0B05
-- expected_values:
-    MKZ_PRI_MOTOR_INV_V: 292.2
-  response: 7EE0562481D0B6A
-- expected_values:
-    MKZ_PRI_MOTOR_INV_V: 293.8
-  response: 7EE0562481D0B7A

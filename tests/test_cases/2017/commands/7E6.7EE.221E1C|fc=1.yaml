@@ -1,6 +1,15 @@
 command_id: 7E6.7EE.221E1C|fc=1
 test_cases:
 - expected_values:
+    MKZ_TT: 57.75
+  response: 7EE05621E1C039C
+- expected_values:
+    MKZ_TT: 58.0625
+  response: 7EE05621E1C03A1
+- expected_values:
+    MKZ_TT: 58.375
+  response: 7EE05621E1C03A6
+- expected_values:
     MKZ_TT: 58.4375
   response: 7EE05621E1C03A7
 - expected_values:

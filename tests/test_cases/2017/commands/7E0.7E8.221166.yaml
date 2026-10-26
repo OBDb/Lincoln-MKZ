@@ -4,6 +4,18 @@ test_cases:
     MKZ_EVAP_PURGE_CMD: 0
   response: '7E8056211660000'
 - expected_values:
+    MKZ_EVAP_PURGE_CMD: 38.0188
+  response: 7E80562116630AA
+- expected_values:
+    MKZ_EVAP_PURGE_CMD: 46.82617
+  response: 7E8056211663BF0
+- expected_values:
+    MKZ_EVAP_PURGE_CMD: 46.89941
+  response: 7E8056211663C08
+- expected_values:
+    MKZ_EVAP_PURGE_CMD: 46.92383
+  response: 7E8056211663C10
+- expected_values:
     MKZ_EVAP_PURGE_CMD: 52.19421
   response: 7E80562116642CF
 - expected_values:

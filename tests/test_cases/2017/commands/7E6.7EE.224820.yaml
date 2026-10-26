@@ -1,6 +1,12 @@
 command_id: 7E6.7EE.224820
 test_cases:
 - expected_values:
+    MKZ_GEN_COIL_T_7E6: 108
+  response: 7EE05624820003C
+- expected_values:
+    MKZ_GEN_COIL_T_7E6: 109.8
+  response: 7EE05624820003D
+- expected_values:
     MKZ_GEN_COIL_T_7E6: 115.2
   response: 7EE056248200040
 - expected_values:

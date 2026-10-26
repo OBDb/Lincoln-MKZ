@@ -4,6 +4,9 @@ test_cases:
     MKZ_TP_FR: 39.5
   response: '72E056228140316'
 - expected_values:
+    MKZ_TP_FR: 39.75
+  response: 72E05622814031B
+- expected_values:
     MKZ_TP_FR: 39.9
   response: 72E05622814031E
 - expected_values:

@@ -1,6 +1,9 @@
 command_id: 7E4.7EC.224804
 test_cases:
 - expected_values:
+    MKZ_HV_NEG_LEAK_V: 0.002
+  response: 7EC056248040002
+- expected_values:
     MKZ_HV_NEG_LEAK_V: 0.003
   response: 7EC056248040003
 - expected_values:
@@ -12,6 +15,9 @@ test_cases:
 - expected_values:
     MKZ_HV_NEG_LEAK_V: 0.46
   response: 7EC0562480401CC
+- expected_values:
+    MKZ_HV_NEG_LEAK_V: 1.516
+  response: 7EC0562480405EC
 - expected_values:
     MKZ_HV_NEG_LEAK_V: 1.663
   response: 7EC05624804067F

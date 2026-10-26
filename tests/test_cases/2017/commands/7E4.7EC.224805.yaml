@@ -1,23 +1,14 @@
 command_id: 7E4.7EC.224805
 test_cases:
 - expected_values:
-    MKZ_CONTACTOR_V_POS: 277.76
-  response: 7EC056248053640
-- expected_values:
-    MKZ_CONTACTOR_V_POS: 278.44
-  response: 7EC056248053662
-- expected_values:
-    MKZ_CONTACTOR_V_POS: 279.1
-  response: 7EC056248053683
-- expected_values:
-    MKZ_CONTACTOR_V_POS: 279.44
-  response: 7EC056248053694
+    MKZ_CONTACTOR_V_POS: 276.94
+  response: 7EC056248053617
 - expected_values:
     MKZ_CONTACTOR_V_POS: 280.94
   response: 7EC0562480536DF
 - expected_values:
+    MKZ_CONTACTOR_V_POS: 281.6
+  response: 7EC056248053700
+- expected_values:
     MKZ_CONTACTOR_V_POS: 288.96
   response: 7EC056248053870
-- expected_values:
-    MKZ_CONTACTOR_V_POS: 289.96
-  response: 7EC0562480538A2

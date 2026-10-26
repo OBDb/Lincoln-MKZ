@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     MKZ_AC_COMP_A: 4.80056
   response: 7CF056299AB0625
+- expected_values:
+    MKZ_AC_COMP_A: 4.99893
+  response: 7CF056299AB0666
+- expected_values:
+    MKZ_AC_COMP_A: 5.20035
+  response: 7CF056299AB06A8

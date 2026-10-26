@@ -1,6 +1,9 @@
 command_id: 7E6.7EE.22481F
 test_cases:
 - expected_values:
+    MKZ_MOTOR_COIL_T: 134.6
+  response: 7EE0562481F0039
+- expected_values:
     MKZ_MOTOR_COIL_T: 141.8
   response: 7EE0562481F003D
 - expected_values:

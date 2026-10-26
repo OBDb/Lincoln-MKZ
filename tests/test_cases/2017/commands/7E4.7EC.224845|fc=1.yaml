@@ -1,6 +1,12 @@
 command_id: 7E4.7EC.224845|fc=1
 test_cases:
 - expected_values:
+    MKZ_HVBAT_SOC_DISP: 29
+  response: 7EC046248453A
+- expected_values:
+    MKZ_HVBAT_SOC_DISP: 33.5
+  response: 7EC0462484543
+- expected_values:
     MKZ_HVBAT_SOC_DISP: 35.5
   response: 7EC0462484547
 - expected_values:

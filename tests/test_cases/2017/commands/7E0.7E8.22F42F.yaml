@@ -7,6 +7,9 @@ test_cases:
     MKZ_FLI_7E0: 50.58824
   response: 7E80462F42F81
 - expected_values:
+    MKZ_FLI_7E0: 50.98039
+  response: 7E80462F42F82
+- expected_values:
     MKZ_FLI_7E0: 52.94118
   response: 7E80462F42F87
 - expected_values:

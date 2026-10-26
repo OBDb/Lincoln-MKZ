@@ -1,26 +1,11 @@
 command_id: 7E4.7EC.224801|fc=1
 test_cases:
 - expected_values:
-    MKZ_HVBAT_SOC: 44.086
-  response: 7EC05624801561B
-- expected_values:
-    MKZ_HVBAT_SOC: 44.738
-  response: 7EC056248015761
+    MKZ_HVBAT_SOC: 41.468
+  response: 7EC0562480150FE
 - expected_values:
     MKZ_HVBAT_SOC: 45.072
   response: 7EC056248015808
-- expected_values:
-    MKZ_HVBAT_SOC: 45.422
-  response: 7EC0562480158B7
-- expected_values:
-    MKZ_HVBAT_SOC: 45.678
-  response: 7EC056248015937
-- expected_values:
-    MKZ_HVBAT_SOC: 48.456
-  response: 7EC056248015EA4
-- expected_values:
-    MKZ_HVBAT_SOC: 49.936
-  response: 7EC056248016188
 - expected_values:
     MKZ_HVBAT_SOC: 50.526
   response: 7EC0562480162AF
