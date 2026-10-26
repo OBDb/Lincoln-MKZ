@@ -4,6 +4,18 @@ test_cases:
     MKZ_ENG_LOAD_PCT: 0
   response: 7E80462F40400
 - expected_values:
+    MKZ_ENG_LOAD_PCT: 61.96078
+  response: 7E80462F4049E
+- expected_values:
+    MKZ_ENG_LOAD_PCT: 62.35294
+  response: 7E80462F4049F
+- expected_values:
+    MKZ_ENG_LOAD_PCT: 62.7451
+  response: 7E80462F404A0
+- expected_values:
+    MKZ_ENG_LOAD_PCT: 65.09804
+  response: 7E80462F404A6
+- expected_values:
     MKZ_ENG_LOAD_PCT: 76.07843
   response: 7E80462F404C2
 - expected_values:

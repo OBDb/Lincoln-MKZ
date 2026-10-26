@@ -4,6 +4,15 @@ test_cases:
     MKZ_ENG_LOAD_ACT: 0
   response: 7E80562F4430000
 - expected_values:
+    MKZ_ENG_LOAD_ACT: 30.58824
+  response: 7E80562F443004E
+- expected_values:
+    MKZ_ENG_LOAD_ACT: 30.98039
+  response: 7E80562F443004F
+- expected_values:
+    MKZ_ENG_LOAD_ACT: 31.76471
+  response: 7E80562F4430051
+- expected_values:
     MKZ_ENG_LOAD_ACT: 44.70588
   response: 7E80562F4430072
 - expected_values:

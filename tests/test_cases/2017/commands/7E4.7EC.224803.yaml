@@ -1,6 +1,9 @@
 command_id: 7E4.7EC.224803
 test_cases:
 - expected_values:
+    MKZ_HV_POS_LEAK_V: 0.001
+  response: 7EC056248030001
+- expected_values:
     MKZ_HV_POS_LEAK_V: 0.002
   response: 7EC056248030002
 - expected_values:
@@ -9,6 +12,9 @@ test_cases:
 - expected_values:
     MKZ_HV_POS_LEAK_V: 0.004
   response: 7EC056248030004
+- expected_values:
+    MKZ_HV_POS_LEAK_V: 0.494
+  response: 7EC0562480301EE
 - expected_values:
     MKZ_HV_POS_LEAK_V: 0.529
   response: 7EC056248030211

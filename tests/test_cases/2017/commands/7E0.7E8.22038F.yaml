@@ -1,29 +1,8 @@
 command_id: 7E0.7E8.22038F
 test_cases:
 - expected_values:
-    MKZ_ECT: 86.48438
-  response: 7E80562038F159F
-- expected_values:
-    MKZ_ECT: 87.09375
-  response: 7E80562038F15C6
-- expected_values:
-    MKZ_ECT: 89.59375
-  response: 7E80562038F1666
-- expected_values:
-    MKZ_ECT: 90.07812
-  response: 7E80562038F1685
-- expected_values:
-    MKZ_ECT: 90.40625
-  response: 7E80562038F169A
-- expected_values:
-    MKZ_ECT: 90.54688
-  response: 7E80562038F16A3
-- expected_values:
-    MKZ_ECT: 91.26562
-  response: 7E80562038F16D1
-- expected_values:
-    MKZ_ECT: 91.45312
-  response: 7E80562038F16DD
+    MKZ_ECT: 70.95312
+  response: 7E80562038F11BD
 - expected_values:
     MKZ_ECT: 91.67188
   response: 7E80562038F16EB

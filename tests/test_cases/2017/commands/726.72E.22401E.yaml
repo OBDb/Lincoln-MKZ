@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     MKZ_NORM_CUM_CHG_IGN_ON: 29.5
   response: 72E0562401E0127
+- expected_values:
+    MKZ_NORM_CUM_CHG_IGN_ON: 29.6
+  response: 72E0562401E0128

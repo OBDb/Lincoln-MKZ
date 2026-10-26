@@ -4,23 +4,5 @@ test_cases:
     MKZ_DCDC_LV_A: 30
   response: 74E046248361E
 - expected_values:
-    MKZ_DCDC_LV_A: 31
-  response: 74E046248361F
-- expected_values:
-    MKZ_DCDC_LV_A: 35
-  response: '74E0462483623'
-- expected_values:
-    MKZ_DCDC_LV_A: 39
-  response: '74E0462483627'
-- expected_values:
-    MKZ_DCDC_LV_A: 40
-  response: '74E0462483628'
-- expected_values:
-    MKZ_DCDC_LV_A: 41
-  response: '74E0462483629'
-- expected_values:
-    MKZ_DCDC_LV_A: 43
-  response: 74E046248362B
-- expected_values:
     MKZ_DCDC_LV_A: 51
   response: '74E0462483633'

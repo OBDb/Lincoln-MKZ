@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     MKZ_OAR: 0.2793
   response: 7E8056203E811E0
+- expected_values:
+    MKZ_OAR: 0
+  response: 7E8056203E8FF37

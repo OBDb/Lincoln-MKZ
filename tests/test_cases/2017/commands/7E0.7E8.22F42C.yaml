@@ -7,6 +7,18 @@ test_cases:
     MKZ_EGR: 14
   response: 7E80462F42C0E
 - expected_values:
+    MKZ_EGR: 63
+  response: 7E80462F42C3F
+- expected_values:
+    MKZ_EGR: 68
+  response: 7E80462F42C44
+- expected_values:
+    MKZ_EGR: 73
+  response: 7E80462F42C49
+- expected_values:
+    MKZ_EGR: 83
+  response: 7E80462F42C53
+- expected_values:
     MKZ_EGR: 100
   response: 7E80462F42C7F
 - expected_values:

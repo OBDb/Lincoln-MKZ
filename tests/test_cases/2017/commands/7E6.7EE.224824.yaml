@@ -18,3 +18,12 @@ test_cases:
 - expected_values:
     MKZ_PRI_MOTOR_INV_T: 49
   response: 7EE056248240031
+- expected_values:
+    MKZ_PRI_MOTOR_INV_T: 50
+  response: 7EE056248240032
+- expected_values:
+    MKZ_PRI_MOTOR_INV_T: 51
+  response: 7EE056248240033
+- expected_values:
+    MKZ_PRI_MOTOR_INV_T: 53
+  response: 7EE056248240035

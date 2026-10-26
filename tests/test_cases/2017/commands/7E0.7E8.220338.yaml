@@ -4,5 +4,8 @@ test_cases:
     MKZ_ETC_TRIM_LRN: 0.40039
   response: 7E80562033800CD
 - expected_values:
+    MKZ_ETC_TRIM_LRN: 0.54688
+  response: '7E8056203380118'
+- expected_values:
     MKZ_ETC_TRIM_LRN: 0.71289
   response: 7E805620338016D

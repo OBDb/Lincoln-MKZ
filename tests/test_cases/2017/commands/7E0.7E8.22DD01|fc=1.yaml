@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     MKZ_ODO: 337080
   response: 7E80662DD010524B8
+- expected_values:
+    MKZ_ODO: 337089
+  response: 7E80662DD010524C1

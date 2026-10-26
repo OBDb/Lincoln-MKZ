@@ -10,5 +10,17 @@ test_cases:
     MKZ_LPFP_DUTY: 41.72974
   response: 7E805620307356A
 - expected_values:
+    MKZ_LPFP_DUTY: 41.73279
+  response: 7E805620307356B
+- expected_values:
+    MKZ_LPFP_DUTY: 41.73584
+  response: 7E805620307356C
+- expected_values:
+    MKZ_LPFP_DUTY: 41.80603
+  response: '7E8056203073583'
+- expected_values:
+    MKZ_LPFP_DUTY: 42.02881
+  response: 7E80562030735CC
+- expected_values:
     MKZ_LPFP_DUTY: 75
   response: '7E8056203076000'

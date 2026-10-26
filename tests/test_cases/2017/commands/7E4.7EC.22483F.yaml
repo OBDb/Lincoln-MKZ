@@ -15,3 +15,12 @@ test_cases:
 - expected_values:
     MKZ_BAT_V_VARIATION_BAT: 0.01
   response: 7EC0562483F000A
+- expected_values:
+    MKZ_BAT_V_VARIATION_BAT: 0.011
+  response: 7EC0562483F000B
+- expected_values:
+    MKZ_BAT_V_VARIATION_BAT: 0.012
+  response: 7EC0562483F000C
+- expected_values:
+    MKZ_BAT_V_VARIATION_BAT: 0.013
+  response: 7EC0562483F000D

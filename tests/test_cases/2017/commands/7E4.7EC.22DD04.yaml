@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     MKZ_T_INSIDE_CAR: 77
   response: 7EC0462DD0441
+- expected_values:
+    MKZ_T_INSIDE_CAR: 78.8
+  response: 7EC0462DD0442

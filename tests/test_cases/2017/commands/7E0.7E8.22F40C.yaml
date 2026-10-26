@@ -4,6 +4,21 @@ test_cases:
     MKZ_RPM: 0
   response: 7E80562F40C0000
 - expected_values:
+    MKZ_RPM: 1153.75
+  response: 7E80562F40C1207
+- expected_values:
+    MKZ_RPM: 1163.5
+  response: 7E80562F40C122E
+- expected_values:
+    MKZ_RPM: 1166.5
+  response: 7E80562F40C123A
+- expected_values:
+    MKZ_RPM: 1170
+  response: 7E80562F40C1248
+- expected_values:
+    MKZ_RPM: 1181.25
+  response: 7E80562F40C1275
+- expected_values:
     MKZ_RPM: 1868.5
   response: 7E80562F40C1D32
 - expected_values:

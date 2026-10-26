@@ -1,14 +1,20 @@
 command_id: 7E0.7E8.22F434
 test_cases:
 - expected_values:
+    MKZ_AIR_FUEL_RAT: 14.39682
+  response: 7E80762F4347DDF7FE9
+- expected_values:
     MKZ_AIR_FUEL_RAT: 14.64121
   response: 7E80762F43480027FEF
 - expected_values:
-    MKZ_AIR_FUEL_RAT: 14.6908
-  response: 7E80762F43480717FF9
+    MKZ_AIR_FUEL_RAT: 14.65729
+  response: 7E80762F43480267FFC
 - expected_values:
-    MKZ_AIR_FUEL_RAT: 16.54363
-  response: 7E80762F43490A4803C
+    MKZ_AIR_FUEL_RAT: 14.80429
+  response: 7E80762F434816F8006
+- expected_values:
+    MKZ_AIR_FUEL_RAT: 14.82886
+  response: 7E80762F43481A68001
 - expected_values:
     MKZ_AIR_FUEL_RAT: 16.80947
   response: 7E80762F43492F78045

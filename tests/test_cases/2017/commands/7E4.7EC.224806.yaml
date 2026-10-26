@@ -4,20 +4,8 @@ test_cases:
     MKZ_CONTACTOR_V_NEG: 279.1
   response: 7EC056248063683
 - expected_values:
-    MKZ_CONTACTOR_V_NEG: 280.28
-  response: 7EC0562480636BE
-- expected_values:
-    MKZ_CONTACTOR_V_NEG: 280.6
-  response: 7EC0562480636CE
-- expected_values:
-    MKZ_CONTACTOR_V_NEG: 281.1
-  response: 7EC0562480636E7
-- expected_values:
     MKZ_CONTACTOR_V_NEG: 281.94
   response: 7EC056248063711
-- expected_values:
-    MKZ_CONTACTOR_V_NEG: 282.78
-  response: 7EC05624806373B
 - expected_values:
     MKZ_CONTACTOR_V_NEG: 288.28
   response: 7EC05624806384E

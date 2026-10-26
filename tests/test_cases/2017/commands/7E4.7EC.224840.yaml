@@ -1,23 +1,8 @@
 command_id: 7E4.7EC.224840
 test_cases:
 - expected_values:
-    MKZ_BATT_MIN_BATT_V: 3.656
-  response: 7EC056248400E48
-- expected_values:
-    MKZ_BATT_MIN_BATT_V: 3.664
-  response: 7EC056248400E50
-- expected_values:
-    MKZ_BATT_MIN_BATT_V: 3.671
-  response: 7EC056248400E57
-- expected_values:
-    MKZ_BATT_MIN_BATT_V: 3.678
-  response: 7EC056248400E5E
-- expected_values:
-    MKZ_BATT_MIN_BATT_V: 3.698
-  response: 7EC056248400E72
-- expected_values:
-    MKZ_BATT_MIN_BATT_V: 3.786
-  response: 7EC056248400ECA
+    MKZ_BATT_MIN_BATT_V: 3.642
+  response: 7EC056248400E3A
 - expected_values:
     MKZ_BATT_MIN_BATT_V: 3.818
   response: 7EC056248400EEA

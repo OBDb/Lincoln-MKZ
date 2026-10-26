@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     MKZ_BATT_SOC: 0.73
   response: 7EC0562483E02DA
+- expected_values:
+    MKZ_BATT_SOC: 0.998
+  response: 7EC0562483E03E6

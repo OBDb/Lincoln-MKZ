@@ -9,3 +9,18 @@ test_cases:
 - expected_values:
     MKZ_VCT_INT_DES: -26.75
   response: 7E8056203BCFE54
+- expected_values:
+    MKZ_VCT_INT_DES: -12.8125
+  response: 7E8056203BCFF33
+- expected_values:
+    MKZ_VCT_INT_DES: -12.125
+  response: 7E8056203BCFF3E
+- expected_values:
+    MKZ_VCT_INT_DES: -11.875
+  response: 7E8056203BCFF42
+- expected_values:
+    MKZ_VCT_INT_DES: -11.8125
+  response: 7E8056203BCFF43
+- expected_values:
+    MKZ_VCT_INT_DES: -11.5
+  response: 7E8056203BCFF48

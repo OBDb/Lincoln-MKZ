@@ -4,6 +4,12 @@ test_cases:
     MKZ_PCM_MISF_ACCEL_CYL1_NORM: 0
   response: '7E80462038200'
 - expected_values:
+    MKZ_PCM_MISF_ACCEL_CYL1_NORM: 0.14062
+  response: '7E80462038209'
+- expected_values:
+    MKZ_PCM_MISF_ACCEL_CYL1_NORM: -0.39062
+  response: 7E804620382E7
+- expected_values:
     MKZ_PCM_MISF_ACCEL_CYL1_NORM: -0.07812
   response: 7E804620382FB
 - expected_values:

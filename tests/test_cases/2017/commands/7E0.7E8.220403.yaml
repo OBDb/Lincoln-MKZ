@@ -4,6 +4,21 @@ test_cases:
     MKZ_KS1_RAW: 0
   response: '7E8056204030000'
 - expected_values:
+    MKZ_KS1_RAW: 70
+  response: '7E8056204030046'
+- expected_values:
+    MKZ_KS1_RAW: 71
+  response: '7E8056204030047'
+- expected_values:
+    MKZ_KS1_RAW: 75
+  response: 7E805620403004B
+- expected_values:
+    MKZ_KS1_RAW: 77
+  response: 7E805620403004D
+- expected_values:
+    MKZ_KS1_RAW: 78
+  response: 7E805620403004E
+- expected_values:
     MKZ_KS1_RAW: 138
   response: 7E805620403008A
 - expected_values:
