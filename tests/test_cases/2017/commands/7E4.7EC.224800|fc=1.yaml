@@ -1,0 +1,8 @@
+command_id: 7E4.7EC.224800|fc=1
+test_cases:
+- expected_values:
+    MKZ_HVBAT_T: 45
+  response: 7EC046248005F
+- expected_values:
+    MKZ_HVBAT_T: 46
+  response: 7EC0462480060

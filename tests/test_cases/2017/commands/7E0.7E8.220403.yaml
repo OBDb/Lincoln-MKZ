@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220403
+test_cases:
+- expected_values:
+    MKZ_KS1_RAW: 0
+  response: '7E8056204030000'
+- expected_values:
+    MKZ_KS1_RAW: 138
+  response: 7E805620403008A
+- expected_values:
+    MKZ_KS1_RAW: 142
+  response: 7E805620403008E
+- expected_values:
+    MKZ_KS1_RAW: 237
+  response: 7E80562040300ED

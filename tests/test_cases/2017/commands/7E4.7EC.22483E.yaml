@@ -1,0 +1,5 @@
+command_id: 7E4.7EC.22483E
+test_cases:
+- expected_values:
+    MKZ_BATT_SOC: 0.73
+  response: 7EC0562483E02DA

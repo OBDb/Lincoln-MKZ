@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221E16
+test_cases:
+- expected_values:
+    MKZ_AXLE_GEAR_RATIO_MEAS: 0
+  response: 7E805621E160000
+- expected_values:
+    MKZ_AXLE_GEAR_RATIO_MEAS: 3.98999
+  response: 7E805621E163FD7
+- expected_values:
+    MKZ_AXLE_GEAR_RATIO_MEAS: 9.52295
+  response: 7E805621E16985E
+- expected_values:
+    MKZ_AXLE_GEAR_RATIO_MEAS: 10
+  response: 7E805621E16A75A

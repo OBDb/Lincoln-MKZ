@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22038A
+test_cases:
+- expected_values:
+    MKZ_PCM_MISF_ACCEL_CYL3_NORM: 0
+  response: 7E80462038A00
+- expected_values:
+    MKZ_PCM_MISF_ACCEL_CYL3_NORM: 0.03125
+  response: 7E80462038A02
+- expected_values:
+    MKZ_PCM_MISF_ACCEL_CYL3_NORM: 0.48438
+  response: 7E80462038A1F
+- expected_values:
+    MKZ_PCM_MISF_ACCEL_CYL3_NORM: 0.51562
+  response: 7E80462038A21
+- expected_values:
+    MKZ_PCM_MISF_ACCEL_CYL3_NORM: -0.0625
+  response: 7E80462038AFC

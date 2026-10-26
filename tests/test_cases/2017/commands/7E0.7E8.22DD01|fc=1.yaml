@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    MKZ_ODO: 337078
+  response: 7E80662DD010524B6
+- expected_values:
+    MKZ_ODO: 337079
+  response: 7E80662DD010524B7
+- expected_values:
+    MKZ_ODO: 337080
+  response: 7E80662DD010524B8

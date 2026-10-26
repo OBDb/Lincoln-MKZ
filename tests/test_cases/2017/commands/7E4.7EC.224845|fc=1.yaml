@@ -1,0 +1,26 @@
+command_id: 7E4.7EC.224845|fc=1
+test_cases:
+- expected_values:
+    MKZ_HVBAT_SOC_DISP: 35.5
+  response: 7EC0462484547
+- expected_values:
+    MKZ_HVBAT_SOC_DISP: 37
+  response: 7EC046248454A
+- expected_values:
+    MKZ_HVBAT_SOC_DISP: 38
+  response: 7EC046248454C
+- expected_values:
+    MKZ_HVBAT_SOC_DISP: 38.5
+  response: 7EC046248454D
+- expected_values:
+    MKZ_HVBAT_SOC_DISP: 39.5
+  response: 7EC046248454F
+- expected_values:
+    MKZ_HVBAT_SOC_DISP: 46
+  response: 7EC046248455C
+- expected_values:
+    MKZ_HVBAT_SOC_DISP: 49.5
+  response: 7EC0462484563
+- expected_values:
+    MKZ_HVBAT_SOC_DISP: 51
+  response: 7EC0462484566

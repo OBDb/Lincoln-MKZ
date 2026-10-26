@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220316
+test_cases:
+- expected_values:
+    MKZ_VCT_INT_DUTY: 0
+  response: '7E8056203160000'
+- expected_values:
+    MKZ_VCT_INT_DUTY: 42.19055
+  response: '7E8056203163601'
+- expected_values:
+    MKZ_VCT_INT_DUTY: 42.55676
+  response: '7E8056203163679'
+- expected_values:
+    MKZ_VCT_INT_DUTY: 79.99878
+  response: '7E8056203166666'

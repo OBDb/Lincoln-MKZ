@@ -1,0 +1,17 @@
+command_id: 7E4.7EC.220702
+test_cases:
+- expected_values:
+    MKZ_FAN_SPD_INDICATED: 1350
+  response: 7EC0462070236
+- expected_values:
+    MKZ_FAN_SPD_INDICATED: 1450
+  response: 7EC046207023A
+- expected_values:
+    MKZ_FAN_SPD_INDICATED: 1600
+  response: 7EC0462070240
+- expected_values:
+    MKZ_FAN_SPD_INDICATED: 1675
+  response: 7EC0462070243
+- expected_values:
+    MKZ_FAN_SPD_INDICATED: 1850
+  response: 7EC046207024A

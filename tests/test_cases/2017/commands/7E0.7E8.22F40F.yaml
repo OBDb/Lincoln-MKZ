@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F40F
+test_cases:
+- expected_values:
+    MKZ_IAT_ALT2: 38
+  response: 7E80462F40F4E
+- expected_values:
+    MKZ_IAT_ALT2: 40
+  response: 7E80462F40F50
+- expected_values:
+    MKZ_IAT_ALT2: 41
+  response: 7E80462F40F51
+- expected_values:
+    MKZ_IAT_ALT2: 42
+  response: 7E80462F40F52
+- expected_values:
+    MKZ_IAT_ALT2: 44
+  response: 7E80462F40F54
+- expected_values:
+    MKZ_IAT_ALT2: 45
+  response: 7E80462F40F55
+- expected_values:
+    MKZ_IAT_ALT2: 47
+  response: 7E80462F40F57

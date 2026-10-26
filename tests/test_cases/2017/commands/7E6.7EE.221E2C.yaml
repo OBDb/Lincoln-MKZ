@@ -1,0 +1,26 @@
+command_id: 7E6.7EE.221E2C
+test_cases:
+- expected_values:
+    MKZ_PRI_MOTOR_RPM: 0
+  response: 7EE05621E2C0000
+- expected_values:
+    MKZ_PRI_MOTOR_RPM: 437
+  response: 7EE05621E2C01B5
+- expected_values:
+    MKZ_PRI_MOTOR_RPM: 1484
+  response: 7EE05621E2C05CC
+- expected_values:
+    MKZ_PRI_MOTOR_RPM: 1812
+  response: 7EE05621E2C0714
+- expected_values:
+    MKZ_PRI_MOTOR_RPM: 1949
+  response: 7EE05621E2C079D
+- expected_values:
+    MKZ_PRI_MOTOR_RPM: 2040
+  response: 7EE05621E2C07F8
+- expected_values:
+    MKZ_PRI_MOTOR_RPM: 2133
+  response: 7EE05621E2C0855
+- expected_values:
+    MKZ_PRI_MOTOR_RPM: -448
+  response: 7EE05621E2CFE40

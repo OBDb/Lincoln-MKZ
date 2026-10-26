@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    MKZ_PCM_CYL_HEAD_T_CORR: 90.95312
+  response: 7E80562033416BD
+- expected_values:
+    MKZ_PCM_CYL_HEAD_T_CORR: 95.39062
+  response: 7E80562033417D9
+- expected_values:
+    MKZ_PCM_CYL_HEAD_T_CORR: 96
+  response: '7E8056203341800'

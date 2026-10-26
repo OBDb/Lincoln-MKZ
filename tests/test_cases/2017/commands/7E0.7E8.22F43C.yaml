@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    MKZ_CAT_TEMP: 494.7
+  response: 7E80562F43C14E3
+- expected_values:
+    MKZ_CAT_TEMP: 497.1
+  response: 7E80562F43C14FB
+- expected_values:
+    MKZ_CAT_TEMP: 575.6
+  response: 7E80562F43C180C
+- expected_values:
+    MKZ_CAT_TEMP: 642.1
+  response: 7E80562F43C1AA5

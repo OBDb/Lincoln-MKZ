@@ -1,0 +1,18 @@
+command_id: 7E4.7EC.224808
+test_cases:
+- expected_values:
+    MKZ_HVBAT_T_MAX: 45
+    MKZ_HVBAT_T_MIN: 40
+  response: 7EC076248085F5A375D
+- expected_values:
+    MKZ_HVBAT_T_MAX: 46
+    MKZ_HVBAT_T_MIN: 40
+  response: 7EC07624808605A375D
+- expected_values:
+    MKZ_HVBAT_T_MAX: 46
+    MKZ_HVBAT_T_MIN: 41
+  response: 7EC07624808605B375D
+- expected_values:
+    MKZ_HVBAT_T_MAX: 46
+    MKZ_HVBAT_T_MIN: 41
+  response: 7EC07624808605B375E

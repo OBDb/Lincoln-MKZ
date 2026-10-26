@@ -1,0 +1,5 @@
+command_id: 7E4.7EC.224815
+test_cases:
+- expected_values:
+    MKZ_MAX_DISCH_PWR_LIM: 35
+  response: 7EC046248158C

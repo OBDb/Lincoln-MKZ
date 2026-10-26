@@ -1,0 +1,5 @@
+command_id: 7E6.7EE.22DD05
+test_cases:
+- expected_values:
+    MKZ_OUTSIDE_T: 77.2
+  response: 7EE0462DD0540

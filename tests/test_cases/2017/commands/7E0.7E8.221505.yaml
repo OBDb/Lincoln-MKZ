@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221505
+test_cases:
+- expected_values:
+    MKZ_VSS_HD: 0
+  response: '7E8056215050000'
+- expected_values:
+    MKZ_VSS_HD: 2.28906
+  response: '7E8056215050125'
+- expected_values:
+    MKZ_VSS_HD: 2.99219
+  response: 7E805621505017F
+- expected_values:
+    MKZ_VSS_HD: 20.3125
+  response: 7E8056215050A28
+- expected_values:
+    MKZ_VSS_HD: 21.77344
+  response: 7E8056215050AE3
+- expected_values:
+    MKZ_VSS_HD: 23.64062
+  response: 7E8056215050BD2
+- expected_values:
+    MKZ_VSS_HD: 24.46875
+  response: 7E8056215050C3C
+- expected_values:
+    MKZ_VSS_HD: 30.73438
+  response: 7E8056215050F5E

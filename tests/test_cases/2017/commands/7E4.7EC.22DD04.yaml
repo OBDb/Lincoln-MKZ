@@ -1,0 +1,5 @@
+command_id: 7E4.7EC.22DD04
+test_cases:
+- expected_values:
+    MKZ_T_INSIDE_CAR: 77
+  response: 7EC0462DD0441
