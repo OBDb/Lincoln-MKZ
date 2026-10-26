@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221279
+test_cases:
+- expected_values:
+    MKZ_IAT_SENS_V: 1.47605
+  response: 7E805621279012E
+- expected_values:
+    MKZ_IAT_SENS_V: 1.70577
+  response: 7E805621279015D

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    MKZ_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    MKZ_EVAP_PURGE_CMD: 52.19421
+  response: 7E80562116642CF
+- expected_values:
+    MKZ_EVAP_PURGE_CMD: 55.71899
+  response: '7E8056211664752'

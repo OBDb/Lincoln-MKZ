@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220301
+test_cases:
+- expected_values:
+    MKZ_MAP_V: 3.40137
+  response: 7E8056203010D9B
+- expected_values:
+    MKZ_MAP_V: 3.4209
+  response: 7E8056203010DAF
+- expected_values:
+    MKZ_MAP_V: 3.68945
+  response: 7E8056203010EC2
+- expected_values:
+    MKZ_MAP_V: 4.06641
+  response: '7E8056203011044'
+- expected_values:
+    MKZ_MAP_V: 4.07129
+  response: '7E8056203011049'
+- expected_values:
+    MKZ_MAP_V: 4.07617
+  response: 7E805620301104E
+- expected_values:
+    MKZ_MAP_V: 4.08105
+  response: '7E8056203011053'

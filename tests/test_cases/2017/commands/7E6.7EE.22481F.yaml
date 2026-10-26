@@ -1,0 +1,26 @@
+command_id: 7E6.7EE.22481F
+test_cases:
+- expected_values:
+    MKZ_MOTOR_COIL_T: 141.8
+  response: 7EE0562481F003D
+- expected_values:
+    MKZ_MOTOR_COIL_T: 149
+  response: 7EE0562481F0041
+- expected_values:
+    MKZ_MOTOR_COIL_T: 152.6
+  response: 7EE0562481F0043
+- expected_values:
+    MKZ_MOTOR_COIL_T: 156.2
+  response: 7EE0562481F0045
+- expected_values:
+    MKZ_MOTOR_COIL_T: 159.8
+  response: 7EE0562481F0047
+- expected_values:
+    MKZ_MOTOR_COIL_T: 161.6
+  response: 7EE0562481F0048
+- expected_values:
+    MKZ_MOTOR_COIL_T: 163.4
+  response: 7EE0562481F0049
+- expected_values:
+    MKZ_MOTOR_COIL_T: 165.2
+  response: 7EE0562481F004A

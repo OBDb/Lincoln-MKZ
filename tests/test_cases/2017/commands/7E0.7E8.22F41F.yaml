@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    MKZ_RUN_TIME: 2168
+  response: 7E80562F41F0878
+- expected_values:
+    MKZ_RUN_TIME: 2612
+  response: 7E80562F41F0A34
+- expected_values:
+    MKZ_RUN_TIME: 2814
+  response: 7E80562F41F0AFE

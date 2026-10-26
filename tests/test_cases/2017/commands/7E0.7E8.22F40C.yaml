@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    MKZ_RPM: 0
+  response: 7E80562F40C0000
+- expected_values:
+    MKZ_RPM: 1868.5
+  response: 7E80562F40C1D32
+- expected_values:
+    MKZ_RPM: 1941
+  response: 7E80562F40C1E54
+- expected_values:
+    MKZ_RPM: 2008
+  response: 7E80562F40C1F60

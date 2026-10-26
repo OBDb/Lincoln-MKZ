@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22091A
+test_cases:
+- expected_values:
+    MKZ_ETC_ANG_DES: 8
+  response: 7E80562091A1000
+- expected_values:
+    MKZ_ETC_ANG_DES: 12.87891
+  response: 7E80562091A19C2
+- expected_values:
+    MKZ_ETC_ANG_DES: 14.30273
+  response: 7E80562091A1C9B
+- expected_values:
+    MKZ_ETC_ANG_DES: 16.70898
+  response: 7E80562091A216B

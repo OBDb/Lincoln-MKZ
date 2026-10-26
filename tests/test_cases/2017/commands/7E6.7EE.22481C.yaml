@@ -1,0 +1,26 @@
+command_id: 7E6.7EE.22481C
+test_cases:
+- expected_values:
+    MKZ_PRI_MOTOR_TQ: 0.1
+  response: 7EE0562481C0001
+- expected_values:
+    MKZ_PRI_MOTOR_TQ: 54.9
+  response: 7EE0562481C0225
+- expected_values:
+    MKZ_PRI_MOTOR_TQ: -42.5
+  response: 7EE0562481CFE57
+- expected_values:
+    MKZ_PRI_MOTOR_TQ: -25.5
+  response: 7EE0562481CFF01
+- expected_values:
+    MKZ_PRI_MOTOR_TQ: -12.6
+  response: 7EE0562481CFF82
+- expected_values:
+    MKZ_PRI_MOTOR_TQ: -11.7
+  response: 7EE0562481CFF8B
+- expected_values:
+    MKZ_PRI_MOTOR_TQ: -6.2
+  response: 7EE0562481CFFC2
+- expected_values:
+    MKZ_PRI_MOTOR_TQ: -4.6
+  response: 7EE0562481CFFD2

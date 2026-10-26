@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    MKZ_LPFP_DUTY: 41.65649
+  response: '7E8056203073552'
+- expected_values:
+    MKZ_LPFP_DUTY: 41.65955
+  response: '7E8056203073553'
+- expected_values:
+    MKZ_LPFP_DUTY: 41.72974
+  response: 7E805620307356A
+- expected_values:
+    MKZ_LPFP_DUTY: 75
+  response: '7E8056203076000'

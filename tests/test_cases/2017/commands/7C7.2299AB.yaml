@@ -1,0 +1,17 @@
+command_id: 7C7.2299AB
+test_cases:
+- expected_values:
+    MKZ_AC_COMP_A: 4.00098
+  response: 7CF056299AB051F
+- expected_values:
+    MKZ_AC_COMP_A: 4.19935
+  response: 7CF056299AB0560
+- expected_values:
+    MKZ_AC_COMP_A: 4.40077
+  response: 7CF056299AB05A2
+- expected_values:
+    MKZ_AC_COMP_A: 4.59914
+  response: 7CF056299AB05E3
+- expected_values:
+    MKZ_AC_COMP_A: 4.80056
+  response: 7CF056299AB0625

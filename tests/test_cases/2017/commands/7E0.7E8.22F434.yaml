@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    MKZ_AIR_FUEL_RAT: 14.64121
+  response: 7E80762F43480027FEF
+- expected_values:
+    MKZ_AIR_FUEL_RAT: 14.6908
+  response: 7E80762F43480717FF9
+- expected_values:
+    MKZ_AIR_FUEL_RAT: 16.54363
+  response: 7E80762F43490A4803C
+- expected_values:
+    MKZ_AIR_FUEL_RAT: 16.80947
+  response: 7E80762F43492F78045
+- expected_values:
+    MKZ_AIR_FUEL_RAT: 18.74182
+  response: 7E80762F434A3DC8073

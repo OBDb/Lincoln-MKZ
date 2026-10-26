@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2203BA
+test_cases:
+- expected_values:
+    MKZ_AAT_V: 2.48778
+  response: 7E8056203BA01FD
+- expected_values:
+    MKZ_AAT_V: 2.51711
+  response: 7E8056203BA0203
+- expected_values:
+    MKZ_AAT_V: 2.55621
+  response: 7E8056203BA020B
+- expected_values:
+    MKZ_AAT_V: 2.62463
+  response: 7E8056203BA0219
+- expected_values:
+    MKZ_AAT_V: 2.6393
+  response: 7E8056203BA021C
+- expected_values:
+    MKZ_AAT_V: 2.64418
+  response: 7E8056203BA021D
+- expected_values:
+    MKZ_AAT_V: 2.65396
+  response: 7E8056203BA021F
+- expected_values:
+    MKZ_AAT_V: 2.66862
+  response: 7E8056203BA0222

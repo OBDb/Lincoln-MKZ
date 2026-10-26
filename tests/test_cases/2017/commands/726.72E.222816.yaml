@@ -1,0 +1,14 @@
+command_id: 726.72E.222816
+test_cases:
+- expected_values:
+    MKZ_TP_RL: 37.65
+  response: 72E0562281602F1
+- expected_values:
+    MKZ_TP_RL: 37.75
+  response: 72E0562281602F3
+- expected_values:
+    MKZ_TP_RL: 37.9
+  response: 72E0562281602F6
+- expected_values:
+    MKZ_TP_RL: 38
+  response: 72E0562281602F8

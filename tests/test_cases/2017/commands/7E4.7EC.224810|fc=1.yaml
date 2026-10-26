@@ -1,0 +1,5 @@
+command_id: 7E4.7EC.224810|fc=1
+test_cases:
+- expected_values:
+    MKZ_HVBAT_AGE: 88869.6
+  response: 7EC05624810606E
