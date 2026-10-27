@@ -1,6 +1,12 @@
 command_id: 726.72E.222816
 test_cases:
 - expected_values:
+    MKZ_TP_RL: 35.75
+  response: 72E0562281602CB
+- expected_values:
+    MKZ_TP_RL: 36
+  response: 72E0562281602D0
+- expected_values:
     MKZ_TP_RL: 37.65
   response: 72E0562281602F1
 - expected_values:
