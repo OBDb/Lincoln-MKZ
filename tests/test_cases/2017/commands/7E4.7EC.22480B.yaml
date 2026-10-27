@@ -4,8 +4,8 @@ test_cases:
     MKZ_HIGH_V_BAT_CURRENT: 3.5
   response: 7EC0562480B00AF
 - expected_values:
-    MKZ_HIGH_V_BAT_CURRENT: -41.58
-  response: 7EC0562480BF7E1
+    MKZ_HIGH_V_BAT_CURRENT: 20.28
+  response: 7EC0562480B03F6
 - expected_values:
     MKZ_HIGH_V_BAT_CURRENT: -10.22
   response: 7EC0562480BFE01
