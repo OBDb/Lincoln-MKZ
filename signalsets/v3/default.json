@@ -306,7 +306,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0353"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2014, 2015, 2016], "from": 2018 },
   "signals": [
-    {"id": "MKZ_BARO", "path": "Engine", "fmt": { "len": 16, "max": 20, "min": 8, "mul": 615, "div": 16963, "unit": "psi" }, "name": "Barometric pressure"}
+    {"id": "MKZ_BARO", "path": "Engine", "fmt": { "len": 16, "max": 20, "min": 8, "mul": 615, "div": 16963, "unit": "psi" }, "name": "Barometric pressure", "suggestedMetric": "barometricPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "035A"}, "freq": 1, "dbgfilter": { "to": 2012, "from": 2014 },
   "signals": [
@@ -574,7 +574,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "09DB"}, "freq": 1,
   "signals": [
-    {"id": "MKZ_TURBO_BOOST", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Turbo boost"}
+    {"id": "MKZ_TURBO_BOOST", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Turbo boost", "suggestedMetric": "absoluteBoostPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1126"}, "freq": 30, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
@@ -758,7 +758,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E23"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2014, 2015, 2016], "from": 2018 },
   "signals": [
-    {"id": "MKZ_GEAR_SHFT", "path": "Transmission", "name": "Gear, shift", "fmt": {"len": 8, "map": {
+    {"id": "MKZ_GEAR_SHFT", "path": "Transmission", "name": "Gear, shift", "suggestedMetric": "gearSelector", "fmt": {"len": 8, "map": {
           "10": { "description": "Manual",  "value": "MANUAL" },
           "46": { "description": "Drive",   "value": "DRIVE" },
           "50": { "description": "Neutral", "value": "NEUTRAL" },
@@ -805,7 +805,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F40B"}, "freq": 0.25, "filter": { "to": 2012 },
   "signals": [
-    {"id": "MKZ_MAP", "path": "Engine", "fmt": { "len": 8, "max": 36, "mul": 10000, "div": 68947, "unit": "psi" }, "name": "Manifold pressure"}
+    {"id": "MKZ_MAP", "path": "Engine", "fmt": { "len": 8, "max": 36, "mul": 10000, "div": 68947, "unit": "psi" }, "name": "Manifold pressure", "suggestedMetric": "absoluteBoostPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40C"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
@@ -1029,7 +1029,7 @@
   ]},
 { "hdr": "7E6", "rax": "7EE", "cmd": {"22": "1E12"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "MKZ_GEAR_CMD", "path": "Transmission", "name": "Gear commanded", "fmt": {"len": 8, "map": {
+    {"id": "MKZ_GEAR_CMD", "path": "Transmission", "name": "Gear commanded", "suggestedMetric": "gearSelector", "fmt": {"len": 8, "map": {
           "0":   { "description": "Unknown", "value": "UNKNOWN" },
           "20":  { "description": "L",       "value": "L" },
           "40":  { "description": "D",       "value": "D" },
