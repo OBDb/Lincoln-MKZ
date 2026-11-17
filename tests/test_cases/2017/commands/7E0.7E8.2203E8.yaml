@@ -7,5 +7,5 @@ test_cases:
     MKZ_OAR: 0.2793
   response: 7E8056203E811E0
 - expected_values:
-    MKZ_OAR: 0
+    MKZ_OAR: -0.01227
   response: 7E8056203E8FF37

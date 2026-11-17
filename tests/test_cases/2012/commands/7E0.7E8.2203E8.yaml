@@ -1,29 +1,29 @@
 command_id: 7E0.7E8.2203E8
 test_cases:
 - expected_values:
-    MKZ_OAR: 0
+    MKZ_OAR: -1
   response: 7E8056203E8C000
 - expected_values:
-    MKZ_OAR: 0
+    MKZ_OAR: -0.97443
   response: 7E8056203E8C1A3
 - expected_values:
-    MKZ_OAR: 0
+    MKZ_OAR: -0.79999
   response: 7E8056203E8CCCD
 - expected_values:
-    MKZ_OAR: 0
+    MKZ_OAR: -0.75446
   response: 7E8056203E8CFB7
 - expected_values:
-    MKZ_OAR: 0
+    MKZ_OAR: -0.68311
   response: 7E8056203E8D448
 - expected_values:
-    MKZ_OAR: 0
+    MKZ_OAR: -0.65845
   response: 7E8056203E8D5DC
 - expected_values:
-    MKZ_OAR: 0
+    MKZ_OAR: -0.58936
   response: 7E8056203E8DA48
 - expected_values:
-    MKZ_OAR: 0
+    MKZ_OAR: -0.41547
   response: 7E8056203E8E569
 - expected_values:
-    MKZ_OAR: 0
+    MKZ_OAR: -0.33936
   response: 7E8056203E8EA48

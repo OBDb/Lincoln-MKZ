@@ -394,7 +394,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03E8"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2014, 2015, 2016], "from": 2018 },
   "signals": [
-    {"id": "MKZ_OAR", "path": "Engine", "fmt": { "len": 16, "max": 1, "div": 16384, "sign": true, "unit": "scalar" }, "name": "Octane adjustment"}
+    {"id": "MKZ_OAR", "path": "Engine", "fmt": { "len": 16, "max": 1, "min": -1, "div": 16384, "sign": true, "unit": "scalar" }, "name": "Octane adjustment"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03EC"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
